@@ -1,9 +1,7 @@
  1°
 DELETE FROM cliente WHERE id_cliente = 5;
 
-/
-2°
-
+/* 2° */
 DELETE FROM cliente
 WHERE estado = 'SC';
 
